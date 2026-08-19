@@ -51,12 +51,12 @@ export default function App() {
       tech: ["Python", "NumPy", "Pandas", "Matplotlib", "Scikit-learn", "Jupyter Notebook", "Git & GitHub"],
       link: "https://github.com/omer1738/ML-Projects"
     },
-      /*{
-        title: "MicroService API Gateway",
-        description: "Lightweight proxy server with rate limiting, JWT authentication, and automated logging for microservice ecosystems.",
-        tech: ["Go", "Docker", "Redis", "PostgreSQL"],
-        link: "#"
-      }*/
+      {
+      title: "Frontend Projects",
+      description: "A collection of frontend projects built while developing my web development skills, including a weather application using an external API, a Chrome extension for tracking leads, and a Blackjack game. These projects demonstrate practical experience with React, API integration, user interactions, and frontend development.",
+      tech: ["React", "JavaScript", "HTML", "CSS", "APIs", "Chrome Extensions"],
+      link: "https://github.com/omer1738"
+  }
     ]
   };
 
