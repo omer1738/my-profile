@@ -45,6 +45,12 @@ export default function App() {
         tech: ["React", "Next.js", "Tailwind CSS", "clerck","Sanity","AI-powered Search","Git&Github"],
         link: "https://pathwise-blush.vercel.app/"
       },
+       {
+        title: "idea-vaulet",
+        description: "Idea Vault is a modern web application designed to help users capture, organize, and manage their ideas in one place. It provides a clean and intuitive interface for creating, viewing, and managing ideas efficiently.",
+        tech: ["React", "Next.js", "node.js","Render","vercel","mongodb","Javascript","Git&Github"],
+        link: "https://idea-vault-wine.vercel.app/  "
+      },
       {
       title: "Machine Learning Projects",
       description: "A collection of machine learning projects covering the complete workflow from data preprocessing and exploratory data analysis to model training, evaluation, and prediction. These projects demonstrate the practical application of supervised learning algorithms, feature engineering, and data visualization techniques while solving real-world problems using Python and popular machine learning libraries.",
