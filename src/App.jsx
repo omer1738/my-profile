@@ -45,6 +45,14 @@ export default function App() {
         tech: ["React", "Next.js", "Tailwind CSS", "clerck","Sanity","AI-powered Search","Git&Github"],
         link: "https://pathwise-blush.vercel.app/"
       },
+      
+        {
+  title: "RAG PDF Chatbot",
+  description: "RAG PDF Chatbot is an AI-powered web application that lets users chat with their own PDF documents. Users upload one or more PDFs, and the app extracts the text, splits it into chunks, and converts them into embeddings stored in a FAISS vector database. When a question is asked, the app retrieves the most relevant passages and sends them to a large language model, which streams back an answer based only on the document. If the answer is not in the file, the bot says so instead of guessing. The app also includes a chat interface with history and CSV export. This project allowed me to gain practical experience with retrieval-augmented generation (RAG), vector search, and LLM integration while building and deploying a complete AI application.",
+  tech: ["Python", "Streamlit", "LangChain", "FAISS", "Hugging Face", "Groq", "RAG", "Git&Github"],
+  link: "https://rag-pdf-chatbot-rhxorrpdyudy3pcxvxnqn8.streamlit.app/"
+
+      },
        {
         title: "idea-vaulet",
         description: "Idea Vault is a modern web application designed to help users capture, organize, and manage their ideas in one place. It provides a clean and intuitive interface for creating, viewing, and managing ideas efficiently.",
